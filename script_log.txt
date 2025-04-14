@@ -1,0 +1,63 @@
+[2025-04-14 06:23:06.764132] Checking and loading packages
+[2025-04-14 06:23:06.812877] Package already loaded: GGally
+[2025-04-14 06:23:06.813716] Package already loaded: network
+[2025-04-14 06:23:06.814649] Package already loaded: sna
+[2025-04-14 06:23:06.81655] Package already loaded: ggplot2
+[2025-04-14 06:23:06.818336] Script started
+[2025-04-14 06:23:06.852153] Starting main execution
+[2025-04-14 06:23:06.853008] Starting network pipeline
+[2025-04-14 06:23:06.853739] Creating network
+[2025-04-14 06:23:06.8583] Network created successfully
+[2025-04-14 06:23:06.873463] Checking network validity
+[2025-04-14 06:23:06.874619] Network valid: 10 vertices, 27 edges
+[2025-04-14 06:23:06.875258] Summarizing network
+[2025-04-14 06:23:06.879922] Network summarized successfully
+[2025-04-14 06:23:06.880516] Network pipeline completed
+[2025-04-14 06:23:06.881463] Analyzing network
+[2025-04-14 06:23:06.883538] Network analysis completed
+[2025-04-14 06:23:06.884506] Creating visualization
+[2025-04-14 06:23:07.504799] Visualization completed
+[2025-04-14 06:23:07.50559] Main execution completed
+[2025-04-14 06:23:07.506119] Script ended
+[2025-04-14 06:36:43.417483] Checking and loading packages
+[2025-04-14 06:36:43.439421] Package already loaded: GGally
+[2025-04-14 06:36:43.440152] Package already loaded: network
+[2025-04-14 06:36:43.440839] Package already loaded: sna
+[2025-04-14 06:36:43.441457] Package already loaded: ggplot2
+[2025-04-14 06:36:43.442364] Script started
+[2025-04-14 06:36:43.460518] Starting main execution
+[2025-04-14 06:36:43.462015] Starting network pipeline
+[2025-04-14 06:36:43.463217] Creating network
+[2025-04-14 06:36:43.465297] Network created successfully
+[2025-04-14 06:36:43.481616] Checking network validity
+[2025-04-14 06:36:43.482849] Network valid: 10 vertices, 29 edges
+[2025-04-14 06:36:43.483737] Summarizing network
+[2025-04-14 06:36:43.487579] Network summarized successfully
+[2025-04-14 06:36:43.488441] Network pipeline completed
+[2025-04-14 06:36:43.489114] Analyzing network
+[2025-04-14 06:36:43.490612] Network analysis completed
+[2025-04-14 06:36:43.491347] Creating visualization
+[2025-04-14 06:36:43.764328] Visualization completed
+[2025-04-14 06:36:43.765369] Main execution completed
+[2025-04-14 06:36:43.766152] Script ended
+[2025-04-14 06:49:58.988825] Checking and loading packages
+[2025-04-14 06:49:59.016062] Package already loaded: GGally
+[2025-04-14 06:49:59.017037] Package already loaded: network
+[2025-04-14 06:49:59.018085] Package already loaded: sna
+[2025-04-14 06:49:59.018933] Package already loaded: ggplot2
+[2025-04-14 06:49:59.020401] Script started
+[2025-04-14 06:49:59.049109] Starting main execution
+[2025-04-14 06:49:59.049925] Starting network pipeline
+[2025-04-14 06:49:59.050707] Creating network
+[2025-04-14 06:49:59.053449] Network created successfully
+[2025-04-14 06:49:59.078482] Checking network validity
+[2025-04-14 06:49:59.079889] Network valid: 10 vertices, 27 edges
+[2025-04-14 06:49:59.081025] Summarizing network
+[2025-04-14 06:49:59.083984] Network summarized successfully
+[2025-04-14 06:49:59.084675] Network pipeline completed
+[2025-04-14 06:49:59.085326] Analyzing network
+[2025-04-14 06:49:59.146901] Network analysis completed
+[2025-04-14 06:49:59.14767] Creating visualization
+[2025-04-14 06:49:59.384428] Visualization completed
+[2025-04-14 06:49:59.385655] Main execution completed
+[2025-04-14 06:49:59.386318] Script ended
